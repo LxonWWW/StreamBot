@@ -7,8 +7,8 @@ global streamer_role_id;
 global streamer_channel_id;
 
 #configuration
-streamer_role_id = 735542882760523796;
-streamer_channel_id = 718249826332049448;
+streamer_role_id = YOUR_STREAMER_ROLE_ID;
+streamer_channel_id = YOUR_STREAM_ANNOUNCEMENT_CHANNEL;
 
 bot = commands.Bot(command_prefix='§')
 
